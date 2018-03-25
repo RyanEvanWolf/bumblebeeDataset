@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="MotionXGPSFull 24.2 Build 5063R64">
+<trk>
+<name><![CDATA[Track 006]]></name>
+<desc><![CDATA[02 Jan 2018  6:35 pm]]></desc>
+<trkseg>
+<trkpt lat="-33.9580698" lon="18.4821775">
+<ele>18.454</ele>
+<time>2018-01-02T16:35:05.905Z</time>
+</trkpt>
+<trkpt lat="-33.9580698" lon="18.4821775">
+<ele>18.454</ele>
+<time>2018-01-02T16:35:05.905Z</time>
+</trkpt>
+<trkpt lat="-33.9580001" lon="18.4821646">
+<ele>18.443</ele>
+<time>2018-01-02T16:35:16.373Z</time>
+</trkpt>
+<trkpt lat="-33.9579959" lon="18.4822763">
+<ele>18.438</ele>
+<time>2018-01-02T16:35:26.798Z</time>
+</trkpt>
+<trkpt lat="-33.9580768" lon="18.4822161">
+<ele>18.453</ele>
+<time>2018-01-02T16:35:37.913Z</time>
+</trkpt>
+<trkpt lat="-33.9580067" lon="18.4822856">
+<ele>18.477</ele>
+<time>2018-01-02T16:35:48.879Z</time>
+</trkpt>
+<trkpt lat="-33.9580711" lon="18.4822009">
+<ele>18.491</ele>
+<time>2018-01-02T16:36:00.403Z</time>
+</trkpt>
+<trkpt lat="-33.9579783" lon="18.4821976">
+<ele>18.494</ele>
+<time>2018-01-02T16:36:15.113Z</time>
+</trkpt>
+<trkpt lat="-33.9579891" lon="18.4823190">
+<ele>18.552</ele>
+<time>2018-01-02T16:36:30.615Z</time>
+</trkpt>
+<trkpt lat="-33.9580593" lon="18.4822345">
+<ele>18.700</ele>
+<time>2018-01-02T16:36:43.617Z</time>
+</trkpt>
+<trkpt lat="-33.9579998" lon="18.4823168">
+<ele>18.817</ele>
+<time>2018-01-02T16:36:53.570Z</time>
+</trkpt>
+<trkpt lat="-33.9580515" lon="18.4822129">
+<ele>18.782</ele>
+<time>2018-01-02T16:37:08.035Z</time>
+</trkpt>
+<trkpt lat="-33.9579976" lon="18.4823008">
+<ele>18.635</ele>
+<time>2018-01-02T16:37:23.326Z</time>
+</trkpt>
+<trkpt lat="-33.9580599" lon="18.4822217">
+<ele>18.488</ele>
+<time>2018-01-02T16:37:38.335Z</time>
+</trkpt>
+<trkpt lat="-33.9579963" lon="18.4823055">
+<ele>18.393</ele>
+<time>2018-01-02T16:37:56.607Z</time>
+</trkpt>
+<trkpt lat="-33.9580613" lon="18.4822210">
+<ele>18.336</ele>
+<time>2018-01-02T16:38:18.322Z</time>
+</trkpt>
+<trkpt lat="-33.9579933" lon="18.4822981">
+<ele>18.305</ele>
+<time>2018-01-02T16:38:42.726Z</time>
+</trkpt>
+<trkpt lat="-33.9580678" lon="18.4822283">
+<ele>18.296</ele>
+<time>2018-01-02T16:39:07.235Z</time>
+</trkpt>
+<trkpt lat="-33.9580028" lon="18.4823111">
+<ele>18.295</ele>
+<time>2018-01-02T16:39:31.148Z</time>
+</trkpt>
+<trkpt lat="-33.9580653" lon="18.4822247">
+<ele>18.280</ele>
+<time>2018-01-02T16:39:55.757Z</time>
+</trkpt>
+<trkpt lat="-33.9579989" lon="18.4823084">
+<ele>18.197</ele>
+<time>2018-01-02T16:40:20.742Z</time>
+</trkpt>
+<trkpt lat="-33.9580655" lon="18.4822335">
+<ele>18.023</ele>
+<time>2018-01-02T16:40:43.373Z</time>
+</trkpt>
+<trkpt lat="-33.9579979" lon="18.4823165">
+<ele>17.819</ele>
+<time>2018-01-02T16:41:07.106Z</time>
+</trkpt>
+<trkpt lat="-33.9580713" lon="18.4822393">
+<ele>17.618</ele>
+<time>2018-01-02T16:41:31.143Z</time>
+</trkpt>
+<trkpt lat="-33.9580039" lon="18.4823141">
+<ele>17.461</ele>
+<time>2018-01-02T16:41:53.174Z</time>
+</trkpt>
+<trkpt lat="-33.9580634" lon="18.4822326">
+<ele>17.433</ele>
+<time>2018-01-02T16:42:14.992Z</time>
+</trkpt>
+<trkpt lat="-33.9580634" lon="18.4822326">
+<ele>17.503</ele>
+<time>2018-01-02T16:42:28.992Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+<fpdata xmlns="http://www.motionx.com/GPX-Extensions/1/1" sfv="10" origin="MotionXGPSFull 24.2 Build 5063R64">
+<bin enc="base64">
+RgIAAAACAAAApBlhLu2S1kEBAAAApKoSn+2S1kEAAACuOQ18QBwAAABXYQAAZGFxTR10
+MkDb+Ajv14AxQAAAAAAKAAAAVHJhY2sgMDA2ABUAAAAwMiBKYW4gMjAxOCAgNjozNSBw
+bQAAAAAA1qoSn+2S1kEg0xKf7ZLWQb7CBgDmtnctmsJLQCwAAAACAAAA7RLY/G97MkBj
+EWgIovpAwGRhcU0ddDJAAAAAAAAAFEAAAAAAAAAIQAAAAAAAoGFAAAAAAAAAAAAAAAAA
+rUfhehQmb0BkYXFNHXQyQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAEAAAABAAAABQAAAIY8DJsJEldAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+AAAAAAAAAAAAACQDAAAcgz+d7ZLWQQAAAAAAAAAAAAAAAAAAAAD/JUS8AgAAAAAAAAAA
+AAAAAQAAACcAAAAyNC4yIEJ1aWxkIDUwNjNSNjQsIE1YQUUgOC4xIGIuIDYyNlI2NAAA
+AAAA8EsAAAEAAAABAgAAALm0S1p6tktaBG0bYS7tktZBbRthLu2S1kEAAAAAAJAcPwAA
+AAABsRlhLu2S1kFpAJae7ZLWQQAAAK45DXxAAAAAAAAAAAA=
+</bin>
+</fpdata>
+</extensions>
+</gpx>

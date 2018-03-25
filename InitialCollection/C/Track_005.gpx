@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="MotionXGPSFull 24.2 Build 5063R64">
+<trk>
+<name><![CDATA[Track 005]]></name>
+<desc><![CDATA[02 Jan 2018  6:30 pm]]></desc>
+<trkseg>
+<trkpt lat="-33.9581959" lon="18.4818929">
+<ele>17.387</ele>
+<time>2018-01-02T16:30:55.909Z</time>
+</trkpt>
+<trkpt lat="-33.9581959" lon="18.4818929">
+<ele>17.387</ele>
+<time>2018-01-02T16:30:55.909Z</time>
+</trkpt>
+<trkpt lat="-33.9581218" lon="18.4819390">
+<ele>17.734</ele>
+<time>2018-01-02T16:31:09.266Z</time>
+</trkpt>
+<trkpt lat="-33.9580980" lon="18.4820550">
+<ele>17.503</ele>
+<time>2018-01-02T16:31:21.547Z</time>
+</trkpt>
+<trkpt lat="-33.9580971" lon="18.4821647">
+<ele>17.460</ele>
+<time>2018-01-02T16:31:33.254Z</time>
+</trkpt>
+<trkpt lat="-33.9581125" lon="18.4820464">
+<ele>17.638</ele>
+<time>2018-01-02T16:31:46.198Z</time>
+</trkpt>
+<trkpt lat="-33.9581254" lon="18.4819364">
+<ele>17.805</ele>
+<time>2018-01-02T16:31:58.429Z</time>
+</trkpt>
+<trkpt lat="-33.9581002" lon="18.4820487">
+<ele>17.779</ele>
+<time>2018-01-02T16:32:11.243Z</time>
+</trkpt>
+<trkpt lat="-33.9580916" lon="18.4821607">
+<ele>17.789</ele>
+<time>2018-01-02T16:32:26.104Z</time>
+</trkpt>
+<trkpt lat="-33.9581112" lon="18.4820491">
+<ele>18.044</ele>
+<time>2018-01-02T16:32:42.994Z</time>
+</trkpt>
+<trkpt lat="-33.9581293" lon="18.4819365">
+<ele>18.305</ele>
+<time>2018-01-02T16:32:50.993Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+<fpdata xmlns="http://www.motionx.com/GPX-Extensions/1/1" sfv="10" origin="MotionXGPSFull 24.2 Build 5063R64">
+<bin enc="base64">
+RgIAAAACAAAApaPE7+yS1kEBAAAAHm0GD+2S1kEAAACWsvReQAwAAAC2JAAA/Z5AsfRi
+MUAaDJGeMU4yQAAAAAAKAAAAVHJhY2sgMDA1ABUAAAAwMiBKYW4gMjAxOCAgNjozMCBw
+bQAAAAAARG0GD+2S1kG6hQYP7ZLWQYTBAQCyVVqof/lSQCwAAAACAAAA7RI4VV17MkBj
+EY4ppvpAwP2eQLH0YjFAAAAAAAAAFEAAAAAAAAAIQAAAAAAAwGBAAAAAAAAAAAAAAAAA
+H4XrUbh+V0D9nkCx9GIxQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAEAAAABAAAABgAAAHU2DNX4bFpAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA
+AAAAAAAAAAAAAN8AAAAHnb8M7ZLWQQAAAAAAAAAAAAAAAAAAAAD/JUS8AgAAAAAAAAAA
+AAAAAQAAACcAAAAyNC4yIEJ1aWxkIDUwNjNSNjQsIE1YQUUgOC4xIGIuIDYyNlI2NAAA
+AAAAI1AAAAEAAAABAgAAAL+zS1o6tEtaBOSkxO/sktZB5KTE7+yS1kEAAAAAAGQTPwAA
+AAABtqPE7+yS1kFMVrkO7ZLWQQAAAJay9F5AAAAAAAAAAAA=
+</bin>
+</fpdata>
+</extensions>
+</gpx>

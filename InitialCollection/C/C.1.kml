@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>C.1.kml</name>
+	<Style id="track-none_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>30</width>
+		</LineStyle>
+	</Style>
+	<Style id="track-none_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-none.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-10_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="track-0_n">
+		<IconStyle>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="lineStyle">
+		<LineStyle>
+			<color>99ffac59</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="track-0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-0_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-0_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="track-0_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="track-10_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<heading>0</heading>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-10.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<StyleMap id="track-10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-10_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-10_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>30</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="track-none">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#track-none_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#track-none_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>C.1</name>
+		<open>1</open>
+		<snippet></snippet>
+		<description><![CDATA[<table>
+<tr><td><b>Description</b> 02 Jan 2018  6:22 pm </td></tr>
+<tr><td><b>Distance</b> 157.3 meters </td></tr>
+<tr><td><b>Min Alt</b> 16.590 meters </td></tr>
+<tr><td><b>Max Alt</b> 19.794 meters </td></tr>
+<tr><td><b>Max Speed</b> 3.6 km/hour </td></tr>
+<tr><td><b>Avg Speed</b> 2.0 km/hour </td></tr>
+<tr><td><b>Start Time</b>2018-01-02T16:22:18Z</td></tr>
+<tr><td><b>End Time</b>2018-01-02T16:27:08Z</td></tr>
+</table>]]></description>
+		<TimeSpan>
+			<begin>2018-01-02T16:22:18Z</begin>
+			<end>2018-01-02T16:27:08Z</end>
+		</TimeSpan>
+		<Folder>
+			<name>Points</name>
+			<Placemark>
+				<name>Track 003-0</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481846 </td></tr>
+<tr><td>Latitude: -33.958223 </td></tr>
+<tr><td>Altitude: 19.269 meters </td></tr>
+<tr><td>Heading: 154.8 </td></tr>
+<tr><td>Time: 2018-01-02T16:22:18.918Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481846</longitude>
+					<latitude>-33.958223</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:22:18.918Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481846,-33.958223,19.27</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-1</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481846 </td></tr>
+<tr><td>Latitude: -33.958223 </td></tr>
+<tr><td>Altitude: 19.269 meters </td></tr>
+<tr><td>Heading: 0.0 </td></tr>
+<tr><td>Time: 2018-01-02T16:22:18.918Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481846</longitude>
+					<latitude>-33.958223</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:22:18.918Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481846,-33.958223,19.27</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-2</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481923 </td></tr>
+<tr><td>Latitude: -33.958163 </td></tr>
+<tr><td>Altitude: 19.279 meters </td></tr>
+<tr><td>Speed: 2.7 km/hour </td></tr>
+<tr><td>Heading: 47.3 </td></tr>
+<tr><td>Time: 2018-01-02T16:22:32.045Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481923</longitude>
+					<latitude>-33.958163</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:22:32.045Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481923,-33.958163,19.28</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-3</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481929 </td></tr>
+<tr><td>Latitude: -33.958066 </td></tr>
+<tr><td>Altitude: 19.372 meters </td></tr>
+<tr><td>Speed: 3.6 km/hour </td></tr>
+<tr><td>Heading: 2.8 </td></tr>
+<tr><td>Time: 2018-01-02T16:22:42.778Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481929</longitude>
+					<latitude>-33.958066</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:22:42.778Z</when>
+</TimeStamp>
+				<styleUrl>#track-0</styleUrl>
+				<Point>
+					<coordinates>18.481929,-33.958066,19.37</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-4</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481865 </td></tr>
+<tr><td>Latitude: -33.958142 </td></tr>
+<tr><td>Altitude: 19.674 meters </td></tr>
+<tr><td>Speed: 3.6 km/hour </td></tr>
+<tr><td>Heading: 215.1 </td></tr>
+<tr><td>Time: 2018-01-02T16:22:53.095Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481865</longitude>
+					<latitude>-33.958142</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:22:53.095Z</when>
+</TimeStamp>
+				<styleUrl>#track-10</styleUrl>
+				<Point>
+					<coordinates>18.481865,-33.958142,19.67</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-5</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481919 </td></tr>
+<tr><td>Latitude: -33.958058 </td></tr>
+<tr><td>Altitude: 19.794 meters </td></tr>
+<tr><td>Speed: 3.5 km/hour </td></tr>
+<tr><td>Heading: 28.2 </td></tr>
+<tr><td>Time: 2018-01-02T16:23:03.974Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481919</longitude>
+					<latitude>-33.958058</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:23:03.974Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481919,-33.958058,19.79</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-6</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481873 </td></tr>
+<tr><td>Latitude: -33.958143 </td></tr>
+<tr><td>Altitude: 19.397 meters </td></tr>
+<tr><td>Speed: 3.4 km/hour </td></tr>
+<tr><td>Heading: 204.0 </td></tr>
+<tr><td>Time: 2018-01-02T16:23:14.945Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481873</longitude>
+					<latitude>-33.958143</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:23:14.945Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481873,-33.958143,19.4</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-7</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481925 </td></tr>
+<tr><td>Latitude: -33.958063 </td></tr>
+<tr><td>Altitude: 18.728 meters </td></tr>
+<tr><td>Speed: 3.0 km/hour </td></tr>
+<tr><td>Heading: 28.0 </td></tr>
+<tr><td>Time: 2018-01-02T16:23:27.081Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481925</longitude>
+					<latitude>-33.958063</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:23:27.081Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481925,-33.958063,18.73</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-8</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481862 </td></tr>
+<tr><td>Latitude: -33.958150 </td></tr>
+<tr><td>Altitude: 18.108 meters </td></tr>
+<tr><td>Speed: 2.8 km/hour </td></tr>
+<tr><td>Heading: 211.1 </td></tr>
+<tr><td>Time: 2018-01-02T16:23:41.446Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481862</longitude>
+					<latitude>-33.95815</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:23:41.446Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481862,-33.95815,18.11</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-9</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481922 </td></tr>
+<tr><td>Latitude: -33.958074 </td></tr>
+<tr><td>Altitude: 17.629 meters </td></tr>
+<tr><td>Speed: 2.1 km/hour </td></tr>
+<tr><td>Heading: 33.4 </td></tr>
+<tr><td>Time: 2018-01-02T16:23:58.616Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481922</longitude>
+					<latitude>-33.958074</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:23:58.616Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481922,-33.958074,17.63</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-10</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481870 </td></tr>
+<tr><td>Latitude: -33.958160 </td></tr>
+<tr><td>Altitude: 17.305 meters </td></tr>
+<tr><td>Speed: 1.6 km/hour </td></tr>
+<tr><td>Heading: 206.4 </td></tr>
+<tr><td>Time: 2018-01-02T16:24:22.061Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.48187</longitude>
+					<latitude>-33.95816</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:24:22.061Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.48187,-33.95816,17.3</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-11</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481932 </td></tr>
+<tr><td>Latitude: -33.958080 </td></tr>
+<tr><td>Altitude: 17.126 meters </td></tr>
+<tr><td>Speed: 1.4 km/hour </td></tr>
+<tr><td>Heading: 32.6 </td></tr>
+<tr><td>Time: 2018-01-02T16:24:48.645Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481932</longitude>
+					<latitude>-33.95808</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:24:48.645Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481932,-33.95808,17.13</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-12</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481864 </td></tr>
+<tr><td>Latitude: -33.958157 </td></tr>
+<tr><td>Altitude: 17.002 meters </td></tr>
+<tr><td>Speed: 1.4 km/hour </td></tr>
+<tr><td>Heading: 216.3 </td></tr>
+<tr><td>Time: 2018-01-02T16:25:15.351Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481864</longitude>
+					<latitude>-33.958157</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:25:15.351Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481864,-33.958157,17</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-13</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481925 </td></tr>
+<tr><td>Latitude: -33.958081 </td></tr>
+<tr><td>Altitude: 16.889 meters </td></tr>
+<tr><td>Speed: 1.5 km/hour </td></tr>
+<tr><td>Heading: 33.7 </td></tr>
+<tr><td>Time: 2018-01-02T16:25:40.735Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481925</longitude>
+					<latitude>-33.958081</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:25:40.735Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481925,-33.958081,16.89</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-14</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481873 </td></tr>
+<tr><td>Latitude: -33.958160 </td></tr>
+<tr><td>Altitude: 16.809 meters </td></tr>
+<tr><td>Speed: 1.4 km/hour </td></tr>
+<tr><td>Heading: 208.5 </td></tr>
+<tr><td>Time: 2018-01-02T16:26:05.994Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481873</longitude>
+					<latitude>-33.95816</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:26:05.994Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481873,-33.95816,16.81</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-15</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481929 </td></tr>
+<tr><td>Latitude: -33.958075 </td></tr>
+<tr><td>Altitude: 16.734 meters </td></tr>
+<tr><td>Speed: 1.4 km/hour </td></tr>
+<tr><td>Heading: 28.4 </td></tr>
+<tr><td>Time: 2018-01-02T16:26:33.501Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481929</longitude>
+					<latitude>-33.958075</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:26:33.501Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481929,-33.958075,16.73</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-16</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481863 </td></tr>
+<tr><td>Latitude: -33.958157 </td></tr>
+<tr><td>Altitude: 16.642 meters </td></tr>
+<tr><td>Speed: 1.4 km/hour </td></tr>
+<tr><td>Heading: 213.5 </td></tr>
+<tr><td>Time: 2018-01-02T16:27:01.992Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481863</longitude>
+					<latitude>-33.958157</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:27:01.992Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481863,-33.958157,16.64</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Track 003-17</name>
+				<snippet></snippet>
+				<description><![CDATA[<table>
+<tr><td>Longitude: 18.481863 </td></tr>
+<tr><td>Latitude: -33.958157 </td></tr>
+<tr><td>Altitude: 16.590 meters </td></tr>
+<tr><td>Heading: 0.0 </td></tr>
+<tr><td>Time: 2018-01-02T16:27:08.992Z </td></tr>
+</table>]]></description>
+				<LookAt>
+					<longitude>18.481863</longitude>
+					<latitude>-33.958157</latitude>
+					<altitude>0</altitude>
+					<heading>0</heading>
+					<tilt>66</tilt>
+					<range>0</range>
+				</LookAt>
+				<TimeStamp><when>2018-01-02T16:27:08.992Z</when>
+</TimeStamp>
+				<styleUrl>#track-none</styleUrl>
+				<Point>
+					<coordinates>18.481863,-33.958157,16.59</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Placemark>
+			<name>Path</name>
+			<visibility>0</visibility>
+			<styleUrl>#lineStyle</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					18.481846,-33.958223,19.27 18.481846,-33.958223,19.27 18.481923,-33.958163,19.28 18.481929,-33.958066,19.37 18.481865,-33.958142,19.67 18.481919,-33.958058,19.79 18.481873,-33.958143,19.4 18.481925,-33.958063,18.73 18.481862,-33.95815,18.11 18.481922,-33.958074,17.63 18.48187,-33.95816,17.3 18.481932,-33.95808,17.13 18.481864,-33.958157,17 18.481925,-33.958081,16.89 18.481873,-33.95816,16.81 18.481929,-33.958075,16.73 18.481863,-33.958157,16.64 18.481863,-33.958157,16.59 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>Average</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					18.48190028095789,-33.95816528459183,0 18.48190202495931,-33.95816480439473,0 18.48190493168302,-33.95816336377222,0 18.4819078319822,-33.95816193290082,0 18.48190957382269,-33.95816049679356,0 18.48191190057874,-33.95815905599735,0 18.48191364535888,-33.95815761586433,0 18.4819159722542,-33.95815617593634,0 18.48191888152434,-33.95815378394467,0 18.4819206299602,-33.95815234366936,0 18.48192121362677,-33.95815042048223,0 18.48192296398493,-33.95814897713551,0 18.48192413218645,-33.95814705120196,0 18.48192530114505,-33.9581451239528,0 18.48192705489326,-33.95814319540397,0 18.48192880871251,-33.95814174819916,0 18.48192997916047,-33.95814030030479,0 18.48193173582526,-33.95813836854489,0 18.48193349815413,-33.95813546713862,0 18.4819340876247,-33.95813401510358,0 18.48193526606984,-33.95813159287744,0 18.48193702973977,-33.9581296529249,0 18.48193879513614,-33.95812771111074,0 18.48194056333305,-33.95812528248091,0 18.48194056820575,-33.9581238257493,0 18.48194175461984,-33.95812042200537,0 18.48194234995908,-33.95811798987705,0 18.48194235700828,-33.95811604285396,0 18.4819423658063,-33.9581136073931,0 18.48194237516188,-33.9581111693326,0 18.48194238419099,-33.95810921515,0 18.48194180470224,-33.95810726048839,0 18.48194122692747,-33.95810481491304,0 18.48194005763467,-33.95810285830683,0 18.48194006373337,-33.95810138809944,0 18.48193888616309,-33.95809895950316,0 18.48193829553788,-33.95809653499855,0 18.481937711771,-33.95809457882925,0 18.48193712666096,-33.95809262465177,0 18.48193654547774,-33.95809017054864,0 18.48193537465672,-33.95808820082579,0 18.48193420280774,-33.95808622941895,0 18.48193302996884,-33.95808425628076,0 18.48193185610833,-33.95808228147961,0 18.48193068123097,-33.95808030494185,0 18.48193009484763,-33.95807833226161,0 18.48192891825809,-33.95807635282949,0 18.48192773985315,-33.95807486612927,0 18.48192715245958,-33.9580723954231,0 18.48192538348355,-33.95806892614921,0 18.48192479409325,-33.95806694305458,0 18.48192420488509,-33.95806494877723,0 18.48192361511648,-33.95806246276784,0 18.48192361685425,-33.95806047309534,0 18.48192361947631,-33.95805748567118,0 18.48192362122595,-33.9580554920729,0 18.48192421692658,-33.95805299624341,0 18.48192540655312,-33.9580509940123,0 18.48192659733671,-33.95804898893257,0 18.48192838342171,-33.95804698222558,0 18.48192957418342,-33.95804597898826,0 18.48193077159353,-33.95804344887846,0 18.48193196954035,-33.958041416661,0 18.48193316390706,-33.95804040397891,0 18.48193614985287,-33.95803838025011,0 18.48193853688306,-33.9580373725649,0 18.48194092758656,-33.95803585923766,0 18.48194271985935,-33.95803485510832,0 18.48194511181406,-33.95803334625274,0 18.48194750512457,-33.95803183653143,0 18.48194930372999,-33.95803032385385,0 18.48195109875234,-33.9580293200138,0 18.48195349465402,-33.95802781115147,0 18.48195589180378,-33.95802630154972,0 18.48195888000257,-33.95802530662946,0 18.48196068320436,-33.95802379265977,0 18.48196307929894,-33.95802278660936,0 18.48196547969554,-33.9580217709155,0 18.48196787925891,-33.95802075975517,0 18.48197028635559,-33.95801973211025,0 18.48197268112266,-33.95801923020841,0 18.48197388426862,-33.95801871937628,0 18.4819768921779,-33.95801769166277,0 18.48198048801269,-33.95801718306685,0 18.48198288302038,-33.95801668453804,0 18.48198586587129,-33.95801670035117,0 18.48198825155896,-33.95801671308846,0 18.48199121459152,-33.95801774912629,0 18.48199235672355,-33.95801981552472,0 18.48199409963648,-33.95802137683752,0 18.48199587391198,-33.95802238976028,0 18.48199703731991,-33.95802391571491,0 18.48199817119669,-33.95802646841447,0 18.48199934832878,-33.95802895246833,0 18.48199994580958,-33.9580304274302,0 18.48200112874547,-33.95803290162228,0 18.48200110828146,-33.95803489802804,0 18.48200169183577,-33.95803589855016,0 18.48200166095603,-33.95803889045392,0 18.48200283307645,-33.9580408815377,0 18.48200340325623,-33.95804287910102,0 18.48200335875383,-33.95804489826801,0 18.48200331918077,-33.95804690962164,0 18.48200327964571,-33.95804891909132,0 18.48200322741375,-33.95805143141713,0 18.48200319384687,-33.95805293980997,0 18.48200314008695,-33.95805593893272,0 18.48200310693215,-33.95805793348352,0 18.48200306550924,-33.95806042446576,0 18.48200303239879,-33.95806241546968,0 18.482002402246,-33.95806489864788,0 18.48200118862797,-33.95806639382592,0 18.48200054015821,-33.95806938017676,0 18.48200050758649,-33.95807185289829,0 18.48199929338563,-33.95807383450909,0 18.48199865499619,-33.95807680467262,0 18.48199862210104,-33.95807878407812,0 18.48199679494829,-33.95808175568913,0 18.48199498316613,-33.95808422575885,0 18.48199378520388,-33.95808618879318,0 18.48199200254098,-33.95808766044814,0 18.48199080580777,-33.95808962183529,0 18.48198960539984,-33.95809207224434,0 18.48198782408628,-33.95809354228368,0 18.48198604462262,-33.95809452432727,0 18.48198367153128,-33.95809599641901,0 18.48198130886875,-33.9580974607723,0 18.48198012343185,-33.95809843926358,0 18.4819771656905,-33.95809990853196,0 18.48197480217231,-33.95810088764691,0 18.48197243938904,-33.95810186649869,0 18.48197008119288,-33.95810235581542,0 18.48196831185355,-33.9581028450321,0 18.48196535948466,-33.95810382579402,0 18.48196300105397,-33.95810431628151,0 18.48196005490367,-33.95810480668735,0 18.48195769437254,-33.95810578595194,0 18.48195475047457,-33.95810627521309,0 18.48195416248569,-33.95810627513674,0 18.48195004648441,-33.95810627462324,0 18.48194651831995,-33.9581062742702,0 18.48194357033833,-33.95810725722864,0 18.481941216216,-33.95810726155128,0 18.48193945690352,-33.958105797248,0 18.48193651658401,-33.95810531304583,0 18.48193416716961,-33.95810433580663,0 18.48193240711147,-33.95810238065527,0 18.48193005174749,-33.95810239066903,0 18.48192769918122,-33.95810142130227,0 18.48192534908588,-33.95810043567985,0 18.48192299700959,-33.95809994078168,0 18.48191946708154,-33.95809944134009,0 18.4819177014805,-33.95809943980663,0 18.48191416996792,-33.95809943683965,0 18.4819118153643,-33.95809943483265,0 18.48190946026671,-33.95809991772705,0 18.48190710521359,-33.95810088824349,0 18.48190475043268,-33.95810137395056,0 18.48190298459095,-33.95810186057578,0 18.48190004066169,-33.95810234535667,0 18.48189769117111,-33.95810284173318,0 18.48189533893087,-33.95810381709347,0 18.48189239986759,-33.95810528012061,0 18.48189063572378,-33.95810625349419,0 18.48188887069923,-33.95810722558635,0 18.48188711304335,-33.95810917758784,0 18.48188476787999,-33.95811064279867,0 18.48188360245789,-33.95811259535525,0 18.48188184714604,-33.95811405900307,0 18.48188009262611,-33.95811552197465,0 18.48187834039021,-33.95811747048175,0 18.48187659066321,-33.95811990396262,0 18.48187483519901,-33.95812136258211,0 18.48187309080662,-33.95812428020131,0 18.48187133317227,-33.95812525120918,0 18.4818695908705,-33.95812816605767,0 18.4818678453944,-33.95813059304461,0 18.48186727564603,-33.95813301906072,0 18.48186611885577,-33.95813544330596,0 18.48186495901796,-33.95813738159399,0 18.4818637958982,-33.95813883462997,0 18.48186322797029,-33.95814077168313,0 18.48186207849578,-33.95814319121192,0 18.48186212230437,-33.95814754151105,0 18.48186215633373,-33.95815092040749,0 18.48186218345072,-33.95815381373416,0 18.48186219735137,-33.95815525931342,0 18.48186222725616,-33.95815814780918,0 18.48186224416626,-33.95816007263803,0 18.48186401935575,-33.95816247606417,0 18.48186636990995,-33.95816391620237,0 18.4818687190291,-33.9581653555038,0 18.48187048257683,-33.95816679438939,0 18.48187282572143,-33.95816775220987,0 18.48187516141199,-33.95816775023131,0 18.48187750313426,-33.95816822599725,0 18.481879855032,-33.95816917563981,0 18.48188220816525,-33.95816964100188,0 18.48188454767638,-33.95817011362602,0 18.48188746932818,-33.95817058440822,0 18.4818898031623,-33.95817057825104,0 18.48189213590032,-33.95817057210432,0 18.48189388471094,-33.9581705674469,0 18.48189737769408,-33.95816960157467,0 18.48190086801593,-33.95816815758948,0 18.48190377390345,-33.95816671732482,0 18.48190668032954,-33.95816575587816,0 18.4819089995209,-33.95816432597515,0 18.48191190472348,-33.95816192894778,0 18.48191248467131,-33.95816049190409,0 18.48191306488523,-33.95815905421837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
