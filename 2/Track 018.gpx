@@ -1,0 +1,45 @@
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="MotionXGPSFull 24.2 Build 5063R64">
+<trk>
+<name>Track 018</name>
+<desc>21 Mar 2018 12:02 pm</desc>
+<trkseg>
+<trkpt lat="-33.9588678" lon="18.4818573">
+<ele>19.784</ele>
+<time>2018-03-21T10:22:32.992Z</time>
+</trkpt>
+<trkpt lat="-33.9589305" lon="18.4817789">
+<ele>19.775</ele>
+<time>2018-03-21T10:22:39.676Z</time>
+</trkpt>
+<trkpt lat="-33.9589920" lon="18.4816789">
+<ele>19.759</ele>
+<time>2018-03-21T10:22:46.820Z</time>
+</trkpt>
+<trkpt lat="-33.9590918" lon="18.4816682">
+<ele>19.697</ele>
+<time>2018-03-21T10:22:53.992Z</time>
+</trkpt>
+<trkpt lat="-33.9591901" lon="18.4816777">
+<ele>19.584</ele>
+<time>2018-03-21T10:23:01.991Z</time>
+</trkpt>
+</trkseg>
+</trk>
+<extensions>
+<fpdata xmlns="http://www.motionx.com/GPX-Extensions/1/1" sfv="10" origin="MotionXGPSFull 24.2 Build 5063R64">
+<bin enc="base64">
+RgIAAAACAAAAVtLCb4us1kEBAAAAUP96ooys1kEAAIAk3CaTQAUAAAAOEQAALpeDT53I
+M0AnS4BQfpUzQAAAAAAKAAAAVHJhY2sgMDE4ABUAAAAyMSBNYXIgMjAxOCAxMjowMiBw
+bQAAAAAAfv96ooys1kGwIHuijKzWQURxAACrXeQ8+34MQCwAAAAAAAAA7RKQ/1p7MkBj
+ESguvPpAwC6Xg0+dyDNAAAAAAAAAFEAAAAAAAAAIQAAAAAAAYGRAAAAAAAAAAAAAAAAA
+FK5H4XrURUAul4NPncgzQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAADgAAAFRyYWNrXzAxOC5ncHgA
+AQAAABeBfqKMrNZBCgAAAAEAAAAKAAAAVHJhY2sgMDE4AAAAAAAAAAAAAAAAAAAAAAAT
+BQAAwHt/oYys1kEAAAAAAAAAAAAAAAAAAAAA/yVEvAIAAAAAAAAAAAAAAAEAAAAnAAAA
+MjQuMiBCdWlsZCA1MDYzUjY0LCBNWEFFIDguMSBiLiA2MjZSNjQAAAAAAKdWAAABAAAA
+AQIAAAC/LbJaiDKyWgQK1MJvi6zWQQrUwm+LrNZBAAAAAADoHT8AAAAAAXDSwm+LrNZB
+uJQwooys1kEAAIAk3CaTQAAAAAAAAAAA
+</bin>
+</fpdata>
+</extensions>
+</gpx>

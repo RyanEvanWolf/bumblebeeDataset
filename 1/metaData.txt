@@ -1,0 +1,11 @@
+1,/media/ryan/OS/Users/Public/DATA/A,2,/media/ryan/OS/Users/Public/DATA/B
+1,1,00477.ppm,02606.ppm
+1,2,02607.ppm,04503.ppm
+1,3,04504.ppm,06076.ppm
+1,4,06077.ppm,07105.ppm
+1,5,07106.ppm,08102.ppm
+1,6,08103.ppm,09149.ppm
+1,7,09150.ppm,09741.ppm
+1,8,09742.ppm,10296.ppm
+1,9,10297.ppm,10860.ppm
+2,1,00000.ppm,10000.ppm
