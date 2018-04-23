@@ -1,4 +1,4 @@
-C,/home/ryan/DATA3/Extracted
+C,/home/ryan/DATA3/C
 C,1,01097.ppm,01735.ppm
 C,2,01736.ppm,02365.ppm
 C,3,02366.ppm,02975.ppm
