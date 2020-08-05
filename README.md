@@ -9,3 +9,13 @@ Sequence 'A' is a dataset
     Ryan Wolf
     Mohohlo Tsoeu
 
+# Python dependencies
+
+Tested using python 3<br>Version: 3.6.9
+```Python
+pip3 install matplotlib python-opencv
+```
+
+```c
+sudo apt install python3-tk
+```
